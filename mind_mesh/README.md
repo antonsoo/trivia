@@ -403,3 +403,7 @@ See [`MINDMESH_V3_AUDIT.md`](./MINDMESH_V3_AUDIT.md) for the full methodology, r
 
 **MINDMESH — Human Signal Field Atlas**  
 Edition 03 · Application `3.0.0` · Deck `3.0.0` · 2026-08-23
+
+---
+
+By Anton Soloviev (`https://github.com/antonsoo`)

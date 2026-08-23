@@ -270,3 +270,7 @@ Please separate content corrections from large visual or architectural changes w
 ---
 
 **The Human Edge** — no hot takes, no vibes, no philosophical riddles disguised as facts. Just difficult questions worth being wrong about once.
+
+---
+
+By Anton Soloviev `https://github.com/antonsoo/`

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="./mindmesh_v3_preview_setup.png" alt="MINDMESH session planner, designed as an editorial field atlas" width="100%">
+  <img src="./images/mindmesh_v3_preview_setup.png" alt="MINDMESH session planner, designed as an editorial field atlas" width="100%">
 </p>
 
 > **Most social errors do not feel like ignorance. They feel like certainty.**  
@@ -129,12 +129,12 @@ Each chapter contains exactly ten cards. Difficulty ranges from **Applied Core**
 <br>
 
 <p align="center">
-  <img src="./mindmesh_v3_preview_play.png" alt="A MINDMESH question card with confidence controls, hints, and field instruments" width="49%">
-  <img src="./mindmesh_v3_preview_report.png" alt="A MINDMESH field report with accuracy and confidence calibration" width="49%">
+  <img src="./images/mindmesh_v3_preview_play.png" alt="A MINDMESH question card with confidence controls, hints, and field instruments" width="49%">
+  <img src="./images/mindmesh_v3_preview_report.png" alt="A MINDMESH field report with accuracy and confidence calibration" width="49%">
 </p>
 
 <p align="center">
-  <img src="./mindmesh_v3_preview_mobile.png" alt="MINDMESH running in a narrow mobile viewport" width="48%">
+  <img src="./images/mindmesh_v3_preview_mobile.png" alt="MINDMESH running in a narrow mobile viewport" width="48%">
 </p>
 
 </details>
@@ -284,10 +284,10 @@ GitHub Pages accepts `index.html` as an entry file and can publish directly from
 | `mindmesh_field_atlas_v3.html` | Complete standalone application: interface, game engine, styles, and embedded deck |
 | `mindmesh_question_bank_v3.json` | Editable source bank containing categories, sources, and 160 cards |
 | `MINDMESH_V3_AUDIT.md` | Content-integrity, answer-leakage, interaction, and regression audit |
-| `mindmesh_v3_preview_setup.png` | Opening-screen preview used by this README |
-| `mindmesh_v3_preview_play.png` | Question-and-feedback preview |
-| `mindmesh_v3_preview_report.png` | Field-report preview |
-| `mindmesh_v3_preview_mobile.png` | Mobile-layout preview |
+| `images/mindmesh_v3_preview_setup.png` | Opening-screen preview used by this README |
+| `images/mindmesh_v3_preview_play.png` | Question-and-feedback preview |
+| `images/mindmesh_v3_preview_report.png` | Field-report preview |
+| `images/mindmesh_v3_preview_mobile.png` | Mobile-layout preview |
 
 The standalone HTML embeds a versioned snapshot of the JSON bank inside:
 
@@ -403,7 +403,3 @@ See [`MINDMESH_V3_AUDIT.md`](./MINDMESH_V3_AUDIT.md) for the full methodology, r
 
 **MINDMESH — Human Signal Field Atlas**  
 Edition 03 · Application `3.0.0` · Deck `3.0.0` · 2026-08-23
-
-## License
-
-A project license has not been selected in this README. Add a `LICENSE` file before describing the repository as open source or inviting reuse and redistribution. GitHub’s [licensing guide](https://docs.github.com/articles/licensing-a-repository) explains why a public repository is not automatically open source.
